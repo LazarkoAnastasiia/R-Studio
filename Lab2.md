@@ -86,7 +86,5 @@ numSamples
 plot(myTime[0:numSamples], strain[0:numSamples], type = "l", xlab = "GPS Time (s)", ylab = "H1 Strain")
 
 
-![image](https://user-images.githubusercontent.com/81391791/201247204-3626b4d3-bffd-4cbf-9db9-b657813725fd.png)
-
-
+![Rplot](https://user-images.githubusercontent.com/81391791/201247467-48f59096-7143-43db-a726-4e4aaf5ac953.png)
 ```
